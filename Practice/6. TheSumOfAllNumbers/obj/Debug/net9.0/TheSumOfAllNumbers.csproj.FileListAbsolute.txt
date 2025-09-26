@@ -1,0 +1,15 @@
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\bin\Debug\net9.0\TheSumOfAllNumbers.exe
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\bin\Debug\net9.0\TheSumOfAllNumbers.deps.json
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\bin\Debug\net9.0\TheSumOfAllNumbers.runtimeconfig.json
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\bin\Debug\net9.0\TheSumOfAllNumbers.dll
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\bin\Debug\net9.0\TheSumOfAllNumbers.pdb
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.AssemblyInfoInputs.cache
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.AssemblyInfo.cs
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.csproj.CoreCompileInputs.cache
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.sourcelink.json
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.dll
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\refint\TheSumOfAllNumbers.dll
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.pdb
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\TheSumOfAllNumbers.genruntimeconfig.cache
+C:\Workspace\C-Sharp\Practice\TheSumOfAllNumbers\obj\Debug\net9.0\ref\TheSumOfAllNumbers.dll
