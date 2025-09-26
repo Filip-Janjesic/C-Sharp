@@ -1,0 +1,14 @@
+C:\Workspace\Csharp\AddingNumbers\bin\Debug\net9.0\AddingNumbers.exe
+C:\Workspace\Csharp\AddingNumbers\bin\Debug\net9.0\AddingNumbers.deps.json
+C:\Workspace\Csharp\AddingNumbers\bin\Debug\net9.0\AddingNumbers.runtimeconfig.json
+C:\Workspace\Csharp\AddingNumbers\bin\Debug\net9.0\AddingNumbers.dll
+C:\Workspace\Csharp\AddingNumbers\bin\Debug\net9.0\AddingNumbers.pdb
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.AssemblyInfoInputs.cache
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.AssemblyInfo.cs
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.csproj.CoreCompileInputs.cache
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.dll
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\refint\AddingNumbers.dll
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.pdb
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\AddingNumbers.genruntimeconfig.cache
+C:\Workspace\Csharp\AddingNumbers\obj\Debug\net9.0\ref\AddingNumbers.dll
