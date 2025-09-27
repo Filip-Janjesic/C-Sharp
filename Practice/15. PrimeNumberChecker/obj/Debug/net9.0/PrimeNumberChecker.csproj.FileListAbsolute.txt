@@ -1,0 +1,15 @@
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.exe
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.deps.json
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.runtimeconfig.json
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.dll
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.pdb
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.AssemblyInfoInputs.cache
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.AssemblyInfo.cs
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.csproj.CoreCompileInputs.cache
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.sourcelink.json
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.dll
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\refint\PrimeNumberChecker.dll
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.pdb
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.genruntimeconfig.cache
+C:\Workspace\C-Sharp\Practice\PrimeNumberChecker\obj\Debug\net9.0\ref\PrimeNumberChecker.dll
