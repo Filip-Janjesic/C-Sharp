@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenOrOddNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db15261a65fec76aba95bb6590c455aad1eceaea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4c87da0994ce97a04a1af978d669aeded2f44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenOrOddNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenOrOddNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

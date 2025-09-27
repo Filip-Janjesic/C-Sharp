@@ -18,3 +18,4 @@ class Program
         
     }
 }
+// This program prompts the user to enter a word, reads the input, counts the number of vowels (a, e, i, o, u) in the word, and then displays the count.

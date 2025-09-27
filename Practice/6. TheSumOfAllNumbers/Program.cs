@@ -15,3 +15,4 @@ class Program
         Console.WriteLine($"The sum of 1 to {n} is: {sum}");
     }
 }
+// This program prompts the user to enter a number n, reads the input, converts it to an integer, and then calculates and displays the sum of all integers from 1 to n using a for loop.

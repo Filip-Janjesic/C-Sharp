@@ -13,3 +13,4 @@ class Program
         }
     }
 }
+// This program prompts the user to enter a number, reads the input, converts it to an integer, and then prints the multiplication table for that number from 1 to 10 using a for loop.

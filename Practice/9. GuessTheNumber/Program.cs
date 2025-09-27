@@ -30,3 +30,4 @@ class Program
         } while (attempts != secretNumber);
     }
 }
+// This program generates a random secret number between 1 and 100. It then prompts the user to guess the number, providing feedback on whether the guess is too low, too high, or correct. The process continues until the user guesses the correct number.

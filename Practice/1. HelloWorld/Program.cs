@@ -9,3 +9,4 @@ public class Program
         Console.WriteLine($"Hello, {name}!");
     }
 }
+// This program prints "Hello, World!" to the console, then reads a name input from the user and greets them with "Hello, [name]!".

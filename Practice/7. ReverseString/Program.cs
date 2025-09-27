@@ -13,3 +13,4 @@ class Program
         Console.WriteLine("Reversed word: " + reversedWord);
     }
 }
+// This program prompts the user to enter a word, reads the input, reverses the characters in the word, and then displays the reversed word.

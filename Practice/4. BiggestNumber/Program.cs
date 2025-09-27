@@ -17,3 +17,4 @@ class Program
         Console.WriteLine($"The biggest number is: {biggest}");
     }
 }
+// This program prompts the user to enter four numbers, reads the input, converts it to integers, and then determines and displays the largest of the four numbers using the Math.Max method.

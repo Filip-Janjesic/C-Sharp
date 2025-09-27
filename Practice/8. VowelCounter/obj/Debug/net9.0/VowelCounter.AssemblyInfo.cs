@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VowelCounter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30595a153ef8d427fa345247dbcc60e703d5e3b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4c87da0994ce97a04a1af978d669aeded2f44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VowelCounter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VowelCounter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
