@@ -1,0 +1,28 @@
+# Visual Studio cache / build files
+.vs/
+*/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+*.nuproj
+*.nuget.props
+*.nuget.targets
+
+# VS Code
+.vscode/
+
+# Others
+*.db
+*.sqlite
+*.idx
