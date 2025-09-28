@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\13. RomanToInteger"
+    "\\13. RomanToInteger",
+    "\\5. MultiplicationTable"
   ],
-  "SelectedNode": "\\13. RomanToInteger\\Program.cs",
+  "SelectedNode": "\\5. MultiplicationTable\\MultiplicationTable.sln",
   "PreviewInSolutionExplorer": false
 }

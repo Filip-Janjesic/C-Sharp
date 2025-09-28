@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseSring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4c87da0994ce97a04a1af978d669aeded2f44b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c54b8444d3a35ba6d8f712757e3632c5bac015b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseSring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseSring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

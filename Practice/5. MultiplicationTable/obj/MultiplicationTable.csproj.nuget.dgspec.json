@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\C-Sharp\\Practice\\MultiplicationTable\\MultiplicationTable.csproj": {}
+    "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\MultiplicationTable.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\C-Sharp\\Practice\\MultiplicationTable\\MultiplicationTable.csproj": {
+    "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\MultiplicationTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\C-Sharp\\Practice\\MultiplicationTable\\MultiplicationTable.csproj",
+        "projectUniqueName": "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\MultiplicationTable.csproj",
         "projectName": "MultiplicationTable",
-        "projectPath": "C:\\Workspace\\C-Sharp\\Practice\\MultiplicationTable\\MultiplicationTable.csproj",
+        "projectPath": "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\MultiplicationTable.csproj",
         "packagesPath": "C:\\Users\\kunce\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\C-Sharp\\Practice\\MultiplicationTable\\obj\\",
+        "outputPath": "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

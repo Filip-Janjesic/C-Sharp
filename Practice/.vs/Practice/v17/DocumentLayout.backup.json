@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Workspace\\C-Sharp\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\10 .Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10 .Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\9. GuessTheNumber\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9. GuessTheNumber\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\8. VowelCounter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8. VowelCounter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\7. ReverseString\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7. ReverseString\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\6. TheSumOfAllNumbers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6. TheSumOfAllNumbers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5. MultiplicationTable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\4. BiggestNumber\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4. BiggestNumber\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Practice\\1. HelloWorld\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1. HelloWorld\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,91 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\10 .Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "10 .Calculator\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\10 .Calculator\\Program.cs",
-              "RelativeToolTip": "10 .Calculator\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:53:20.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\9. GuessTheNumber\\Program.cs",
-              "RelativeDocumentMoniker": "9. GuessTheNumber\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\9. GuessTheNumber\\Program.cs",
-              "RelativeToolTip": "9. GuessTheNumber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAD8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:53:08.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\8. VowelCounter\\Program.cs",
-              "RelativeDocumentMoniker": "8. VowelCounter\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\8. VowelCounter\\Program.cs",
-              "RelativeToolTip": "8. VowelCounter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:53:01.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\7. ReverseString\\Program.cs",
-              "RelativeDocumentMoniker": "7. ReverseString\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\7. ReverseString\\Program.cs",
-              "RelativeToolTip": "7. ReverseString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:52:55.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\6. TheSumOfAllNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "6. TheSumOfAllNumbers\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\6. TheSumOfAllNumbers\\Program.cs",
-              "RelativeToolTip": "6. TheSumOfAllNumbers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAC4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:52:44.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\Program.cs",
-              "RelativeDocumentMoniker": "5. MultiplicationTable\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\5. MultiplicationTable\\Program.cs",
-              "RelativeToolTip": "5. MultiplicationTable\\Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\1. HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "1. HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\1. HelloWorld\\Program.cs",
+              "RelativeToolTip": "1. HelloWorld\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:52:42.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Practice\\4. BiggestNumber\\Program.cs",
-              "RelativeDocumentMoniker": "4. BiggestNumber\\Program.cs",
-              "ToolTip": "C:\\Workspace\\C-Sharp\\Practice\\4. BiggestNumber\\Program.cs",
-              "RelativeToolTip": "4. BiggestNumber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T09:52:36.457Z",
+              "WhenOpened": "2025-09-28T11:49:59.678Z",
               "EditorCaption": ""
             }
           ]
