@@ -1,0 +1,15 @@
+C:\Workspace\C-Sharp\Practice\PalindromChecker\bin\Debug\net9.0\PalindromChecker.exe
+C:\Workspace\C-Sharp\Practice\PalindromChecker\bin\Debug\net9.0\PalindromChecker.deps.json
+C:\Workspace\C-Sharp\Practice\PalindromChecker\bin\Debug\net9.0\PalindromChecker.runtimeconfig.json
+C:\Workspace\C-Sharp\Practice\PalindromChecker\bin\Debug\net9.0\PalindromChecker.dll
+C:\Workspace\C-Sharp\Practice\PalindromChecker\bin\Debug\net9.0\PalindromChecker.pdb
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.AssemblyInfoInputs.cache
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.AssemblyInfo.cs
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.csproj.CoreCompileInputs.cache
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.sourcelink.json
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.dll
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\refint\PalindromChecker.dll
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.pdb
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\PalindromChecker.genruntimeconfig.cache
+C:\Workspace\C-Sharp\Practice\PalindromChecker\obj\Debug\net9.0\ref\PalindromChecker.dll
