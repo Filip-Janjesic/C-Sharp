@@ -1,14 +1,14 @@
+```gitignore
 # Visual Studio cache / build files
-.vs/
-*/.vs/
+**/.vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Build results
-bin/
-obj/
+# Build results (all subfolders)
+**/bin/
+**/obj/
 
 # NuGet
 *.nupkg
@@ -20,9 +20,10 @@ obj/
 *.nuget.targets
 
 # VS Code
-.vscode/
+.vs
 
 # Others
 *.db
 *.sqlite
 *.idx
+```
