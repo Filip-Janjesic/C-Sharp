@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeNumberChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073dd034cee256f4c3799659b20de0393c418c01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b075146f6bf0d40504256a24d28b68c8988ddb0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeNumberChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeNumberChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

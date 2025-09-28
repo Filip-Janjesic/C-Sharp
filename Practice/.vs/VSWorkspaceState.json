@@ -1,14 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\10 .Calculator",
-    "\\4. BiggestNumber",
-    "\\5. MultiplicationTable",
-    "\\6. TheSumOfAllNumbers",
-    "\\7. ReverseString",
-    "\\8. VowelCounter",
-    "\\9. GuessTheNumber"
+    "\\13. RomanToInteger"
   ],
-  "SelectedNode": "\\10 .Calculator\\Program.cs",
+  "SelectedNode": "\\13. RomanToInteger\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
