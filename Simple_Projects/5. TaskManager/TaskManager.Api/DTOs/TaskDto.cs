@@ -1,0 +1,1 @@
+namespace TaskManager.Api.DTOs { class TaskDto {} }

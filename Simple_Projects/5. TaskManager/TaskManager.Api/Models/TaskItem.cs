@@ -1,0 +1,1 @@
+namespace TaskManager.Api.Models { class TaskItem {} }
