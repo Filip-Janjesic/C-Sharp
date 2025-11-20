@@ -1,1 +1,0 @@
-namespace TaskManager.Api.Services { interface ITokenService {} }
