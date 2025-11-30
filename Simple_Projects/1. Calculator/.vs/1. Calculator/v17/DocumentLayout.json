@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.MathExpressions\\ConvertExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\LoreSoft.MathExpressions\\ConvertExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.Calculator\\CalculatorForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\LoreSoft.Calculator\\CalculatorForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.Calculator\\CalculatorConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\LoreSoft.Calculator\\CalculatorConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertExpression.cs",
+              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.MathExpressions\\ConvertExpression.cs",
+              "RelativeDocumentMoniker": "Source\\LoreSoft.MathExpressions\\ConvertExpression.cs",
+              "ToolTip": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.MathExpressions\\ConvertExpression.cs",
+              "RelativeToolTip": "Source\\LoreSoft.MathExpressions\\ConvertExpression.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAnwIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:48:02.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorForm.cs",
+              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.Calculator\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "Source\\LoreSoft.Calculator\\CalculatorForm.cs",
+              "ToolTip": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.Calculator\\CalculatorForm.cs",
+              "RelativeToolTip": "Source\\LoreSoft.Calculator\\CalculatorForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:44:01.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorConstants.cs",
+              "DocumentMoniker": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.Calculator\\CalculatorConstants.cs",
+              "RelativeDocumentMoniker": "Source\\LoreSoft.Calculator\\CalculatorConstants.cs",
+              "ToolTip": "C:\\Workspace\\C-Sharp\\Simple_Projects\\1. Calculator\\Source\\LoreSoft.Calculator\\CalculatorConstants.cs",
+              "RelativeToolTip": "Source\\LoreSoft.Calculator\\CalculatorConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:43:59.572Z",
+              "EditorCaption": ""
             }
           ]
         }

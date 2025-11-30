@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Deploy",
-    "\\Documentation",
     "\\Source",
+    "\\Source\\LoreSoft.Calculator",
     "\\Source\\LoreSoft.Calculator.Setup"
   ],
-  "SelectedNode": "\\Source\\Calculator.sln",
   "PreviewInSolutionExplorer": false
 }

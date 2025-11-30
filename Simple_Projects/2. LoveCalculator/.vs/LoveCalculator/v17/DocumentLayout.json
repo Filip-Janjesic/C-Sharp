@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2A05F2C3-5FB9-437B-B1FD-5ACA51FEE275}|LoveCalculator\\LoveCalculator.csproj|solutionrelative:lovecalculator\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A05F2C3-5FB9-437B-B1FD-5ACA51FEE275}|LoveCalculator\\LoveCalculator.csproj|c:\\workspace\\c-sharp\\simple_projects\\2. lovecalculator\\lovecalculator\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A05F2C3-5FB9-437B-B1FD-5ACA51FEE275}|LoveCalculator\\LoveCalculator.csproj|C:\\Workspace\\C-Sharp\\Simple_Projects\\2. LoveCalculator\\lovecalculator\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A05F2C3-5FB9-437B-B1FD-5ACA51FEE275}|LoveCalculator\\LoveCalculator.csproj|solutionrelative:lovecalculator\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "LoveCalculator\\Properties\\Resources.Designer.cs",
               "ToolTip": "C:\\Workspace\\C-Sharp\\Simple_Projects\\2. LoveCalculator\\LoveCalculator\\Properties\\Resources.Designer.cs",
               "RelativeToolTip": "LoveCalculator\\Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T16:04:40.591Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "LoveCalculator\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:04:33.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T16:04:33.066Z"
             }
           ]
         }
